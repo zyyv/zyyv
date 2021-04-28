@@ -3,7 +3,7 @@
 ### 👨‍🚒 About me
 A programmer who loves to program.
 - 🌱 I’m currently learning `React` & `Vue3`
-- 💬 If you have any questions, please leave a message on my blog.
+- 💬 Please leave a message on my blog.
 - 📫 How to reach me: QQ = `1633711653`
 
 😄 Welcome to my blog: [http://chrisying.cn](http://chrisying.cn)
