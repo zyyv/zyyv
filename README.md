@@ -1,6 +1,6 @@
 ### Hi there, I'm chris-zhu 👋
-
 ### 👨‍🚒 About me
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chris-zhu&show_icons=true&theme=tokyonight">
 A programmer who loves to program.
 - 🌱 I’m currently learning `React` & `Vue3`
 - 💬 Please leave a message on my blog.
@@ -8,7 +8,7 @@ A programmer who loves to program.
 
 😄 Welcome to my blog: [http://chrisying.cn](http://chrisying.cn)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chris-zhu&show_icons=true&theme=tokyonight">
+
 
 
 
