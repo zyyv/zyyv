@@ -4,9 +4,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chris-zhu&show_icons=true&theme=tokyonight">
 
 A programmer who loves to program.
-- 🌱 I’m currently learning `React` & `Vue3`
+- 🍁 I love learning source code very much!
+- 🎈 Like to create some js scripts to resolve automation problems
 - 💬 Please leave a message on my blog.
-- 📫 How to reach me: QQ = `1633711653`
 
 😄 Welcome to my blog: [http://chrisying.cn](http://chrisying.cn)
 
