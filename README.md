@@ -1,7 +1,6 @@
 ### Hi there, I'm chris-zhu 👋
 ### 👨‍🚒 About me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chris-zhu&show_icons=true&theme=tokyonight">
 
 A programmer who loves to program.
 - 🍁 I love learning source code very much!
@@ -10,6 +9,8 @@ A programmer who loves to program.
 
 😄 Welcome to my blog: [http://chrisying.cn](http://chrisying.cn)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chris-zhu&show_icons=true&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-zhu&layout=compact&theme=tokyonight">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-zhu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
