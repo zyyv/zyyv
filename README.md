@@ -11,7 +11,7 @@ A programmer who loves to program.
 😄 Welcome to my blog: [http://chrisying.cn](http://chrisying.cn)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-zhu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-zhu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
