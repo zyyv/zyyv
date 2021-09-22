@@ -7,7 +7,7 @@ A programmer who loves to program.
 - 🎈 Like to create some js scripts to resolve automation problems
 - 💬 Please leave a message on my blog.
 
-😄 Welcome to my blog: [http://chrisying.cn](http://chrisying.cn)
+😄 Welcome to my blog: [http://chrisying.cn](http://chrisying.cn)  (the server temporary closed)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-zhu&layout=compact&theme=tokyonight">
 
