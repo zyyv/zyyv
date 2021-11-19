@@ -1,7 +1,7 @@
 ## 🦸🏻‍♂️ &nbsp;About Me
 
 <p>👋 &nbsp;Hi I'm ZhuYing (Chris) </p>
-<p>✨ &nbsp;A web front-end developer who writes web pages&nbsp; ✨</p>
+<p>✨ &nbsp;A web developer who writes web pages&nbsp; ✨</p>
 
 [📖 &nbsp;Blog](http://chrisying.cn/)
 &nbsp;|&nbsp;
