@@ -3,7 +3,7 @@
 <p>👋 &nbsp;Hi I'm ZhuYing (Chris) </p>
 <p>✨ &nbsp;A web developer who writes web pages&nbsp; ✨</p>
 
-[📖 &nbsp;Blog](http://zyyz.me/)
+[📖 &nbsp;Blog](http://chrisying.cn/)
 &nbsp;|&nbsp;
 [✉️ &nbsp;Issues](https://github.com/chris-zhu/chris-zhu/issues)
 
