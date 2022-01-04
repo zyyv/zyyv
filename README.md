@@ -1,6 +1,6 @@
 ## 🦸🏻‍♂️ &nbsp;About Me
 
-<p>👋 &nbsp;Hi I'm ZhuYing (Chris) </p>
+<p>👋 &nbsp;Hi I'm Ying Zhu (Chris) </p>
 <p>✨ &nbsp;A web developer who writes web pages&nbsp; ✨</p>
 
 [📖 &nbsp;Blog](http://chrisying.cn/)
