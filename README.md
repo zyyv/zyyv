@@ -1,7 +1,7 @@
 ## 🦸🏻‍♂️ &nbsp;About Me
 
 <p>👋 &nbsp;Hi I'm Ying Zhu (Chris) </p>
-<p>✨ &nbsp;Front-end Engineer Focus on Vue, Vite & Unocss &nbsp; ✨</p>
+<p>✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on Vue, Vite & Unocss &nbsp; ✨</p>
 
 [📖 &nbsp;Blog](http://chrisying.cn/)
 &nbsp;|&nbsp;
