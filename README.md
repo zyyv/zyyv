@@ -3,7 +3,9 @@
 <p>👋 &nbsp;Hi I'm Ying Zhu (Chris) </p>
 <p>✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on Vue, Vite & Unocss &nbsp; ✨</p>
 
-[📖 &nbsp;Blog](http://chrisying.cn/)
+Creator of [C-UI](https://github.com/c-ui/c-ui), a awesome ui library.
+
+[📖 &nbsp;Blog](http://zyob.top/)
 &nbsp;|&nbsp;
 [✉️ &nbsp;Issues](https://github.com/chris-zhu/chris-zhu/issues)
 
