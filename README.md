@@ -3,7 +3,7 @@
 <p>👋 &nbsp;Hi I'm Ying Zhu (Chris) </p>
 <p>✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on Vue, Vite & UnoCSS &nbsp; ✨</p>
 
-Creator of [ONU-UI](https://github.com/onu-ui/onu-ui), a awesome ui library.
+Creator of [onu-ui](https://github.com/onu-ui/onu-ui) (W.I.P), just a awesome ui library toys.
 
 [📖 &nbsp;Blog](http://zyob.top/)
 &nbsp;|&nbsp;
