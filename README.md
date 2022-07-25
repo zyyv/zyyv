@@ -1,7 +1,7 @@
 ## 🦸🏻‍♂️ &nbsp;About Me
 
 <p>👋 &nbsp;Hi I'm Ying Zhu (Chris) </p>
-<p>✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on Vue, Vite & UnoCSS &nbsp; ✨</p>
+<p>✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on Vue, Vite, Nuxt & UnoCSS &nbsp; ✨</p>
 
 Creator of [onu-ui](https://github.com/onu-ui/onu-ui) (W.I.P), just a awesome ui library toys.
 
