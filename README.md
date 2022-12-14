@@ -25,9 +25,10 @@ Creator of [Onu-UI](https://github.com/onu-ui/onu-ui) (WIP), just a awesome ui l
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;
 
-## 🍁 &nbsp;My Stats
+<!-- ## 🍁 &nbsp;My Stats
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zyyv&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyyv&layout=compact&theme=tokyonight" />
 </div>
+-->
