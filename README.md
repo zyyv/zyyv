@@ -28,6 +28,6 @@ Creator of [Onu-UI](https://github.com/onu-ui/onu-ui) (WIP), just a awesome ui l
 ## 🍁 &nbsp;My Stats
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chris-zhu&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-zhu&layout=compact&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zyyv&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyyv&layout=compact&theme=tokyonight" />
 </div>
