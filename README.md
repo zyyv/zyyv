@@ -4,7 +4,7 @@
 
 ✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on [Vue](https://github.com/vuejs/core), [Vite](https://github.com/vitejs/vite), [Nuxt](https://github.com/nuxt/framework) & [UnoCSS](https://github.com/unocss/unocss) &nbsp; ✨
 
-Creator of [Onu-UI](https://github.com/onu-ui/onu-ui) (WIP), just a awesome ui library toys.
+Creator of [Onu UI](https://github.com/onu-ui/onu-ui), just a awesome ui library toys.
 
 [📖 &nbsp;Blog](http://zyob.top/)
 &nbsp;|&nbsp;
