@@ -11,16 +11,16 @@
 - 📖 [Personal Website](http://zyob.top)
 
 #### 🛠 &nbsp;Tech Stack
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;
-<code><img height="20" src="https://vitejs.dev/logo.svg"></code>&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>&nbsp;
-<code><img height="20" src="https://viteconf.org/projects/nuxt.svg"></code>&nbsp;
-<code><img height="20" src="https://d33wubrfki0l68.cloudfront.net/2f6479d73bc25170dc532dd42e059166573bf478/61057/favicon.svg"></code>&nbsp;
-<code><img height="20" src="https://uno.antfu.me/play/icon-gray.svg"></code>&nbsp;
-<code><img height="20" src="https://viteconf.org/projects/vitest.svg"></code>&nbsp;
-<code><img height="20" src="https://viteconf.org/projects/pnpm.svg"></code>&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;
+<code><img height="20" src="./icons/logos-typescript-icon.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-vitejs.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-vue.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-nuxt-icon.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-vueuse.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-unocss.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-vitest.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-pnpm.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-nodejs-icon.svg"></code>
+<code><img height="20" src="./icons/logos-react.svg"></code>&nbsp;
 
 <!-- ## 🍁 &nbsp;My Stats
 
