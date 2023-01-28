@@ -16,36 +16,16 @@
 
 #### 🛠 Tech Stack
 
-<code>
-  <img height="20" src="./icons/logos-typescript-icon.svg">
-</code>
-<code>
-  <img height="20" src="./icons/logos-vitejs.svg">
-</code>
-<code>
-  <img height="20" src="./icons/logos-vue.svg">
-</code>
-<code>
-  <img height="20" src="./icons/logos-nuxt-icon.svg">
-</code>
-<code>
-  <img height="20" src="./icons/logos-vueuse.svg">
-</code>
-<code>
-  <img height="20" src="./icons/logos-unocss.svg">
-</code>
-<code>
-  <img height="20" src="./icons/logos-vitest.svg">
-</code>
-<code>
-  <img height="20" src="./icons/logos-pnpm.svg">
-</code>
-<code>
-  <img height="20" src="./icons/logos-nodejs-icon.svg">
-</code>
-<code>
-  <img height="20" src="./icons/logos-react.svg">
-</code>
+<code><img height="20" src="./icons/logos-typescript-icon.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-vitejs.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-vue.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-nuxt-icon.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-vueuse.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-unocss.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-vitest.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-pnpm.svg"></code>&nbsp;
+<code><img height="20" src="./icons/logos-nodejs-icon.svg"></code>
+<code><img height="20" src="./icons/logos-react.svg"></code>&nbsp;
 
 
 #### ⚙️ Projects
