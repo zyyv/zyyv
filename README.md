@@ -1,19 +1,16 @@
-## 🦸🏻‍♂️ &nbsp;About Me
+### 👋 &nbsp;Hi there, I'm Chris.
+- 🧑🏻‍💻 Front-end Engineer
+- [@UnoCSS](https://github.com/unocss) team member
+- [@Onu-UI](https://github.com/onu-ui) creator
+- [@elk-zone](https://github.com/elk-zone) <sub>farm</sub> member
+- [@vuejs](https://github.com/vuejs/core)、[@nuxt](https://github.com/nuxt/nuxt)、[@vite](https://github.com/vitejs/vite) etc. ecological contributors
 
-👋 &nbsp;Hi I'm Ying Zhu (Chris)
+#### ☎️ Find me
+- ✉️ [Email](mailto:zyyz2@qq.com)
+-  [Twitter](https://twitter.com/chris_zyyv)
+- 📖 [Personal Website](http://zyob.top)
 
-✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on [Vue](https://github.com/vuejs/core), [Vite](https://github.com/vitejs/vite), [Nuxt](https://github.com/nuxt/framework) & [UnoCSS](https://github.com/unocss/unocss) &nbsp; ✨
-
-Creator of [Onu UI](https://github.com/onu-ui/onu-ui), just a awesome ui library toys.
-
-[📖 &nbsp;Blog](http://zyob.top/)
-&nbsp;|&nbsp;
-[✉️ &nbsp;Issues](https://github.com/chris-zhu/chris-zhu/issues)
-
-## 🛠 &nbsp;Tech Stack
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
+#### 🛠 &nbsp;Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;
 <code><img height="20" src="https://vitejs.dev/logo.svg"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>&nbsp;
