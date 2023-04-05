@@ -16,6 +16,10 @@
 
 #### 🛠 Tech Stack
 
+> I'm looking forward to a job, please **[contact me](mailto:hizyyv@gmail.com)** if my tech station matches what you are looking for.
+
+> Accept *Remote* or preferably base *Chengdu*(Consider other cities).
+
 <code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
