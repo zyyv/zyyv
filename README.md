@@ -16,7 +16,7 @@
 
 #### 🛠 Tech Stack
 
-> I'm looking forward to a job, please **[contact me](mailto:hizyyv@gmail.com)** if my tech station matches what you are looking for.
+> I'm looking forward to a job, please **[contact me](mailto:hizyyv@gmail.com)** if my tech stack matches what you are looking for.
 
 > Accept *Remote* or preferably base *Chengdu*(Consider other cities).
 
