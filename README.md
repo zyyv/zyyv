@@ -1,5 +1,7 @@
 ### 👋 &nbsp;Hi there, I'm Chris
 
+> Regardless of the past, do not ask the future.
+
 - 🧑🏻‍💻 Front-end Engineer
 - [@UnoCSS](https://github.com/unocss) team member
 - [@Onu UI](https://github.com/onu-ui) creator
@@ -15,10 +17,6 @@
 
 
 #### 🛠 Tech Stack
-
-> I'm looking forward to a job, please **[contact me](mailto:hizyyv@gmail.com)** if my tech stack matches what you are looking for.
-
-> Accept *Remote* or preferably base *Chengdu*(Consider other cities).
 
 <code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
