@@ -3,7 +3,8 @@
 > Regardless of the past, do not ask the future.
 
 - 🧑🏻‍💻 Front-end Engineer
-- [@UnoCSS](https://github.com/unocss) team member
+- [@UnoCSS](https://github.com/unocss) team member / maintainer
+- [@UnPreset](https://github.com/unpreset) creator
 - [@Onu UI](https://github.com/onu-ui) creator
 - [@elk-zone](https://github.com/elk-zone) <sub>farm</sub> member
 - [@vuejs](https://github.com/vuejs/core)、[@nuxt](https://github.com/nuxt/nuxt)、[@vite](https://github.com/vitejs/vite) etc. ecological contributors
@@ -42,7 +43,7 @@
 
 ##### Personal
 - [unocss-animates](https://github.com/zyyv/unocss-animates) - Preview all animations in UnoCSS.
-- [unocss-preset-useful](https://github.com/zyyv/unocss-preset-useful) - My useful preset about unocss usage.
+- [unocss-preset-useful](https://github.com/zyyv/unocss-preset-useful) - Integrate and useful preset.
 - [unplugin-vue-image](https://github.com/zyyv/unplugin-vue-image) - 自动引入图片。Auto import images.
 - [unplugin-unocss-config](https://github.com/zyyv/unplugin-unocss-config) - Use uno config in runtime.
 - [unplugin-vue-dotenv](https://github.com/zyyv/unplugin-vue-dotenv) - Auto generate the corresponding `.env` file.
