@@ -45,7 +45,7 @@
 - [unocss-animates](https://github.com/zyyv/unocss-animates) - Preview all animations in UnoCSS.
 - [unocss-preset-useful](https://github.com/zyyv/unocss-preset-useful) - Integrate and useful preset.
 - [unplugin-vue-image](https://github.com/zyyv/unplugin-vue-image) - 自动引入图片。Auto import images.
-- [unplugin-unocss-config](https://github.com/zyyv/unplugin-unocss-config) - Use uno config in runtime.
+- [unplugin-unocss-config](https://github.com/unplugin/unplugin-unocss-config) - Use uno config in runtime.
 - [unplugin-vue-dotenv](https://github.com/zyyv/unplugin-vue-dotenv) - Auto generate the corresponding `.env` file.
 - [vite-plugin-copyfile](https://github.com/zyyv/vite-plugin-copyfile) - Copy some files to your aim path when build end.
 - [untinyimg](https://github.com/zyyv/untinyimg) - A cli tools of tinypng.
