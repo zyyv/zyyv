@@ -42,6 +42,7 @@
 - [onu-ui/onu-ui](https://github/onu-ui/onu-ui) - Popular, beautiful and fast UnoCSS component library.
 
 ##### Personal
+- [magic-color](https://github.com/zyyv/magic-color) - Magic color creator. 魔法颜色造物主.
 - [unocss-animates](https://github.com/zyyv/unocss-animates) - Preview all animations in UnoCSS.
 - [unocss-preset-useful](https://github.com/zyyv/unocss-preset-useful) - Integrate and useful preset.
 - [unplugin-vue-image](https://github.com/zyyv/unplugin-vue-image) - 自动引入图片。Auto import images.
