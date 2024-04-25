@@ -50,6 +50,7 @@
 - [unplugin-vue-dotenv](https://github.com/zyyv/unplugin-vue-dotenv) - Auto generate the corresponding `.env` file.
 - [vite-plugin-copyfile](https://github.com/zyyv/vite-plugin-copyfile) - Copy some files to your aim path when build end.
 - [untinyimg](https://github.com/zyyv/untinyimg) - A cli tools of tinypng.
+- [ungite](https://github.com/zyyv/ungite) - Git management Viewable.
 - [unocss-transformer-alias](https://github.com/zyyv/unocss-transformer-alias) - Transform alias for UnoCSS shortcuts.
 
 </details>
