@@ -3,7 +3,7 @@
 > Regardless of the past, do not ask the future.
 
 - 🧑🏻‍💻 Front-end Engineer
-- [@UnoCSS](https://github.com/unocss) team member / maintainer
+- [@UnoCSS](https://github.com/unocss) leader / maintainer
 - [@UnPreset](https://github.com/unpreset) creator
 - [@Onu UI](https://github.com/onu-ui) creator
 - [@elk-zone](https://github.com/elk-zone) <sub>farm</sub> member
