@@ -4,7 +4,7 @@
 
 - 🧑🏻‍💻 Front-end Engineer
 - [@UnoCSS](https://github.com/unocss) leader / maintainer
-- [@UnPreset](https://github.com/unpreset) creator
+- [@UnoCSS Community](https://github.com/unocss-community) creator
 - [@Onu UI](https://github.com/onu-ui) creator
 - [@elk-zone](https://github.com/elk-zone) <sub>farm</sub> member
 - [@vuejs](https://github.com/vuejs/core)、[@nuxt](https://github.com/nuxt/nuxt)、[@vite](https://github.com/vitejs/vite) etc. ecological contributors
