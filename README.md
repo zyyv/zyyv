@@ -14,7 +14,7 @@
 
 - <img height="10" src="https://api.iconify.design/fxemoji:email.svg">  [Email](mailto:hizyyv@gmail.com)
 - <img height="10" src="https://api.iconify.design/logos:twitter.svg"> [Twitter](https://twitter.com/chris_zyyv)
-- <img height="10" src="https://api.iconify.design/logos:blogger.svg">  [Personal Website](http://zyob.top)
+- <img height="10" src="https://api.iconify.design/logos:blogger.svg">  [Personal Website](https://zyyv.dev)
 
 
 #### 🛠 Tech Stack
